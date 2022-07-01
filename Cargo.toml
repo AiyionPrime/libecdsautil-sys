@@ -4,6 +4,9 @@ version = "0.1.0"
 links = "ecdsautil"
 build = "build.rs"
 edition = "2021"
+description = "Low-level bindings to libecdsautil for ec25519 signing."
+categories = ["external-ffi-bindings"]
+license = "BSD-2-Clause"
 repository = "https://github.com/AiyionPrime/libecdsautil-sys.git"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
